@@ -15,7 +15,7 @@ fun main()
     numerosDesc(num)
 }</pre>
 # Funcion
-1- La funcion reursiva llamada -numeroDesc- que imprime los numeros en orden descendientes desde un valor entero dado hasta 1.
+1- La funcion reursiva llamada - numeroDesc - que imprime los numeros en orden descendientes desde un valor entero dado hasta 1.
 
 ## Componentes
 Caso base
