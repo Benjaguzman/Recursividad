@@ -1,4 +1,5 @@
 # Recursividad
+:smile:
 
 <pre>fun numerosDesc(n: Int) {
     if(n <= 0)
