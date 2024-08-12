@@ -14,10 +14,10 @@ fun main()
     val num = 5
     numerosDesc(num)
 }</pre>
-#Funcion
+# Funcion
 1- La funcion reursiva llamada -numeroDesc- que imprime los numeros en orden descendientes desde un valor entero dado hasta 1.
 
-##Componentes
+## Componentes
 Caso base
 
 <pre>
